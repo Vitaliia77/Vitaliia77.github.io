@@ -83,13 +83,13 @@ body{
     border-right: 2px solid #ca3431;
 }
 
-.container__courses::after{
+.container__exp::after{
     content: '';
     width: 2px;
-    height: 90px;
+    height: 70px;
     position: absolute;
     margin-left: -12px;
-    margin-top: -80px;
+    margin-top: -60px;
     border-right: 2px solid #ca3431;
 }
 
