@@ -66,10 +66,10 @@ body{
 .container__position::after{
     content: '';
     width: 2px;
-    height: 130px;
+    height: 100px;
     position: absolute;
     margin-left: -12px;
-    margin-top: -120px;
+    margin-top: -90px;
     border-right: 2px solid #ca3431;
 }
 
@@ -208,8 +208,8 @@ li{
     }
 
     .container__position::after{
-        height: 105px;
-        margin-top: -95px;
+        height: 75px;
+        margin-top: -65px;
     }
 
     .container__education::after{
@@ -228,8 +228,8 @@ li{
         font-size: 13px;
     }
     .container__position::after{
-        height: 100px;
-        margin-top: -90px;
+        height: 70px;
+        margin-top: -60px;
     }
 }
 
@@ -274,8 +274,8 @@ li{
     }
 
     .container__position::after{
-        height: 95px;
-        margin-top: -85px;
+        height: 75px;
+        margin-top: -65px;
     }
 
     img{
